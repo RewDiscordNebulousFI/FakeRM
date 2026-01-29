@@ -12,7 +12,11 @@ echo "alias rm='~/safe_rm.sh'" >> ~/.bashrc
 source ~/.bashrc
 
 
+----------------------------------------------------------
+
+
 A silly test to pass :P
+
 
 mkdir -p test_folder/subfolder
 
