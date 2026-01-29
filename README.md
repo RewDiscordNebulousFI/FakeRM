@@ -1,2 +1,13 @@
 # FakeRM
-Soooo U wanna get rid of a file else dir w/ rm, but ain't feel like it rn and just want to store it somewhere for awhile (and only then in one sunny day do your black business rm -rf)? Congrats, you f/ a SPOT ON script! :D
+NOW WITH LESS LAMENESS! (not like Maks, Oleg or even Nekit...) (if blud got into some troubles, no shaking and c'mere to "Issues", brooooo!
+
+Give it some rights, dont be greedy! Use echo for extra laziness, and source in case if you may got urself into bad copy-pastin'!
+chmod +x ~/safe_rm.sh 
+echo "alias rm='~/safe_rm.sh'" >> ~/.bashrc
+source ~/.bashrc
+
+A silly test to pass :P
+mkdir -p test_folder/subfolder
+touch test_folder/file1.txt test_folder/file2.txt
+rm -r test_folder/
+ls ~/.safetrash/
