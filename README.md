@@ -1,5 +1,6 @@
 # FakeRM
 NOW WITH LESS LAMENESS! (not like Maks, Oleg or even Nekit...) (if blud got into some troubles, no shaking and c'mere to "Issues", brooooo! <br />
+-------------------------------------------------------------
 Give it some rights, dont be greedy! Use echo for extra laziness, and source in case if you may got urself into bad copy-pastin'!
 
 
